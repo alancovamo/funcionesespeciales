@@ -1,2 +1,2 @@
 # funciones especiales
-Programas en Python para visualizar funciones especiales como las de Bessel, Legendre, entre otras.
+Programas en Python para calculos y visualizar funciones especiales como las de Bessel, Legendre, entre otras.
